@@ -8,7 +8,6 @@ I'm a junior developer interested in implementing ideas and solving problems.
 - Django
 - Vue.js
 - React Native
-- R
 
 I participated in several projects using the above tools and planning to study for front-end development.
 You can contact me through the email below:)
