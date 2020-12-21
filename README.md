@@ -10,6 +10,7 @@ I'm a junior developer interested in implementing ideas and solving problems.
 - React Native
 
 I participated in several projects using the above tools and planning to study for front-end development.
+
 You can contact me through the email below:)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/thffhr)](https://github.com/thffhr)
