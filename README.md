@@ -16,7 +16,7 @@ You can contact me through the email below:)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/thffhr)](https://github.com/thffhr)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thffhr1@gmail.com)](mailto:thffhr1@gmail.com)
 
-[![thffhr's github stats](https://github-readme-stats.vercel.app/api?username=thffhr)](https://github.com/anuraghazra/github-readme-stats)
+[![thffhr's github stats](https://github-readme-stats.vercel.app/api?username=thffhr)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 <!--
 **thffhr/thffhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
